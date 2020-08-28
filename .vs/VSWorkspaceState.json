@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Contacts",
+    "\\CSharpAulas",
+    "\\CSharpAulas\\CursoCSharp",
+    "\\CSharpAulas\\Escola"
   ],
+  "SelectedNode": "\\CSharpAulas\\CursoCSharp\\CursoCSharp.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,10 @@
+C:\Users\macbookair\Documents\Curso CSharp\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\macbookair\Documents\Curso CSharp\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\macbookair\Documents\Curso CSharp\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\macbookair\Documents\Curso CSharp\Contacts\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+C:\Users\macbookair\Documents\Curso CSharp\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+C:\Users\macbookair\Documents\Curso CSharp\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\macbookair\Documents\Curso CSharp\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\macbookair\Documents\Curso CSharp\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\macbookair\Documents\Curso CSharp\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\macbookair\Documents\Curso CSharp\Contacts\Contacts\obj\Debug\Contacts.pdb

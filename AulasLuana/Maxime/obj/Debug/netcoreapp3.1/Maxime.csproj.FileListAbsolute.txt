@@ -1,0 +1,13 @@
+C:\Users\macbookair\Documents\Curso CSharp\AulasLuana\Maxime\bin\Debug\netcoreapp3.1\Maxime.exe
+C:\Users\macbookair\Documents\Curso CSharp\AulasLuana\Maxime\bin\Debug\netcoreapp3.1\Maxime.deps.json
+C:\Users\macbookair\Documents\Curso CSharp\AulasLuana\Maxime\bin\Debug\netcoreapp3.1\Maxime.runtimeconfig.json
+C:\Users\macbookair\Documents\Curso CSharp\AulasLuana\Maxime\bin\Debug\netcoreapp3.1\Maxime.runtimeconfig.dev.json
+C:\Users\macbookair\Documents\Curso CSharp\AulasLuana\Maxime\bin\Debug\netcoreapp3.1\Maxime.dll
+C:\Users\macbookair\Documents\Curso CSharp\AulasLuana\Maxime\bin\Debug\netcoreapp3.1\Maxime.pdb
+C:\Users\macbookair\Documents\Curso CSharp\AulasLuana\Maxime\obj\Debug\netcoreapp3.1\Maxime.csprojAssemblyReference.cache
+C:\Users\macbookair\Documents\Curso CSharp\AulasLuana\Maxime\obj\Debug\netcoreapp3.1\Maxime.AssemblyInfoInputs.cache
+C:\Users\macbookair\Documents\Curso CSharp\AulasLuana\Maxime\obj\Debug\netcoreapp3.1\Maxime.AssemblyInfo.cs
+C:\Users\macbookair\Documents\Curso CSharp\AulasLuana\Maxime\obj\Debug\netcoreapp3.1\Maxime.csproj.CoreCompileInputs.cache
+C:\Users\macbookair\Documents\Curso CSharp\AulasLuana\Maxime\obj\Debug\netcoreapp3.1\Maxime.dll
+C:\Users\macbookair\Documents\Curso CSharp\AulasLuana\Maxime\obj\Debug\netcoreapp3.1\Maxime.pdb
+C:\Users\macbookair\Documents\Curso CSharp\AulasLuana\Maxime\obj\Debug\netcoreapp3.1\Maxime.genruntimeconfig.cache
