@@ -8,6 +8,11 @@ namespace Tamus.Entities
         public string Crm { get => crm; set => crm = value; }
         public string Especializacao { get => especializacao; set => especializacao = value; }
 
+        public void calculaSalario(int horasTrabalhadas, double valorDaHora)
+        {
+            salario = horasTrabalhadas + valorDaHora;
+        }
+
         /*
          + calculaSalario(int horasTrabalhadas, double valorDaHora): void
          

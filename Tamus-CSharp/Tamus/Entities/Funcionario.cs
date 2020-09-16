@@ -10,6 +10,20 @@ namespace Tamus.Entities
         public double Salario { get => salario; }
         public Dependente Dependente { get => dependente; set => dependente = value; }
 
+        public double calculaDescontoDoBeneficio()
+        {
+            return 0.0;
+        }
+
+        public void calculaSalario(double salarioFixo)
+        {
+            salario = salarioFixo;
+        }
+
+        public void calculaSalario(int horasTrabalhadas, double valorDaHora)
+        {
+            salario = horasTrabalhadas + valorDaHora;
+        }
 
         /* 
          public ContaCorrente(double anuidade, string agencia, string numero, double saldo, Titular titular)
@@ -17,7 +31,7 @@ namespace Tamus.Entities
         {
             this.anuidade = anuidade;
         }
-
+        =============
         - calculaDescontoDoBeneficio():Double
         + calculaSalario(double salarioFixo): void
         + calculaSalario(int horasTabalhadas, double valorDaHora): void
